@@ -1,4 +1,10 @@
-title: Guts blog
-description: My GitHub Pages Blog
+title: Guts Blog
+description: My GitHub Pages Development Blog
+url: "https://ehdtn3540.github.io"
+baseurl: "/guts-blog"
+
 remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
 
