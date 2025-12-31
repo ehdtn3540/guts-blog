@@ -1,2 +1,8 @@
 # my set
 *.swp
+
+# jekyll 로컬환경
+/_site/
+/.jekyll-cache/
+.bundle/
+vendor/
