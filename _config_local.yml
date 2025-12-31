@@ -4,8 +4,10 @@ description: My GitHub Pages Development Blog
 url: "https://ehdtn3540.github.io"
 baseurl: "/guts-blog"
 
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-include-cache
 
