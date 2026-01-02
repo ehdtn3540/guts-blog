@@ -2,7 +2,7 @@
 title: "git status 한글깨짐 문제"
 date: 2026-01-02
 categories:
-  - GitHub
+  - github
 tags:
   - Git 
   - GitHub 

@@ -1,6 +1,5 @@
 ---
-layout: home
-author_profile: true
+title: Home
 ---
 
 ## 👋 안녕하세요, Guts입니다
