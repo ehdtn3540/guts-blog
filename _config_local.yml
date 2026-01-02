@@ -5,17 +5,36 @@ url: "https://ehdtn3540.github.io"
 baseurl: "/guts-blog"
 
 defaults:
+  # posts default setting
   - scope:
       path: ""
-      type: posts # 모든 포스트에 적용
+      type: posts
     values:
       layout: single
       author_profile: true # 왼쪽 사이드바에 프로필 표시
       sidebar:
-        nav: "docs" # _data/navigation.yml에서 정의한 메뉴
+        nav: "docs" 	   # _data/navigation.yml에서 정의한 메뉴
       toc: true            # 목차(TOC) 노출
       toc_sticky: true     # 스크롤 시 목차 고정
       toc_label: "목차"    # 목차 제목 설정
+
+  # categories pages default setting
+  - scope:
+      path: "categories"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs"
+
+  # general pages default setting
+  - scope:
+      type: pages
+    values:
+      layout: home
+      author_profile: true
+      sidebar:
+        nav: "docs"
 
 theme: minimal-mistakes-jekyll
 plugins:
