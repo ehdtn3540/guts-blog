@@ -1,0 +1,7 @@
+docs:
+  - title: "시작하기"
+    children:
+      - title: "설치 가이드"
+        url: /docs/install/
+      - title: "기본 설정"
+        url: /docs/configuration/
