@@ -1,0 +1,31 @@
+---
+# front matter 필수
+---
+
+@import "minimal-mistakes";
+
+
+/* 전체 기본 글자 크기 */
+html {
+  font-size: 15px;
+}
+
+/* 본문 글자 크기 */
+.page__content {
+  font-size: 0.95rem;
+}
+
+/* 제목 글자 크기 */
+.page__content h1 { font-size: 1.8rem; }
+.page__content h2 { font-size: 1.4rem; }
+.page__content h3 { font-size: 1.2rem; }
+
+/* 카테고리/글목록 제목 크기 */
+.archive__item-title {
+  font-size: 1.1rem;
+}
+
+/* 목차 글자 크기 */
+.toc {
+  font-size: 0.85rem;
+}
