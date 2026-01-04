@@ -1,3 +1,4 @@
-theme: minimal-mistakes-jekyll
-remote_theme: false
+# 로컬 환경 설정
+theme: minimal-mistakes-jekyll  # 로컬 테마 설정
+remote_theme: false             # 원격 테마 미사용 처리
 
