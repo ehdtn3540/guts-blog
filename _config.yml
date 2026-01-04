@@ -4,6 +4,14 @@ description: My GitHub Pages Development Blog
 url: "https://ehdtn3540.github.io"
 baseurl: "/guts-blog"
 
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
 defaults:
   # posts default setting
   - scope:
@@ -35,9 +43,4 @@ defaults:
       author_profile: true
       sidebar:
         nav: "docs"
-
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
 
