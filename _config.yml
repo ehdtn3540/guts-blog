@@ -12,6 +12,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+# 태그 노출을 위한 기본 설정(태그 페이지)
+tag_archive:
+  type: liquid
+  path: /tags/
+
 defaults:
   # posts default setting
   - scope:
@@ -25,6 +30,7 @@ defaults:
       toc: true            # 목차(TOC) 노출
       toc_sticky: true     # 스크롤 시 목차 고정
       toc_label: "목차"    # 목차 제목 설정
+      show_tags: true      # 태그 노출 설정
 
   # categories pages default setting
   - scope:
