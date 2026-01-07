@@ -7,7 +7,8 @@ TITLE="$1"
 DATE=$(date +%Y-%m-%d)
 SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
 
-FILE="_posts/${DATE}-${SLUG}.md"
+# FILE="_posts/${DATE}-${SLUG}.md" # 특정 경로 지정
+FILE="./${DATE}-${SLUG}.md" # 현재 위치에 파일 생성
 
 cat <<EOF > $FILE
 ---
