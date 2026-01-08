@@ -1,7 +1,11 @@
 docs:
-  - title: "시작하기"
+  - title: Categories
+    url: /categories/
     children:
-      - title: "Backend"
-        url: /categories/backend/
-      - title: "GitHub"
+      - title: DevOps/Tools
+        url: /categories/devops\/tools/
+      - title: └ GitHub
         url: /categories/github/
+      - title: └ Jekyll
+        url: /categories/jekyll/
+
