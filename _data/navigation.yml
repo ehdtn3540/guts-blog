@@ -2,8 +2,8 @@ docs:
   - title: Categories
     url: /categories/
     children:
-      - title: DevOps/Tools
-        url: /categories/devops\/tools/
+      - title: DevOps-Tools
+        url: /categories/devops-tools/
       - title: └ GitHub
         url: /categories/github/
       - title: └ Jekyll
@@ -11,3 +11,5 @@ docs:
       - title: └ Etc
         url: /categories/etc/
 
+      - title: Computer-Science-basic
+        url: /categories/computer-science-basic/

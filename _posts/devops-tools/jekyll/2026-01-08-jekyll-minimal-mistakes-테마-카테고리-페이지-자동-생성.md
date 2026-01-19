@@ -1,7 +1,7 @@
 ---
 title: "jekyll minimal mistakes 테마 카테고리 페이지 자동 생성"
 date: 2026-01-08
-categories: [devops\/tools, jekyll]
+categories: [devops-tools, jekyll]
 tags: [category, page, jekyll, nav, theme]
 ---
 
