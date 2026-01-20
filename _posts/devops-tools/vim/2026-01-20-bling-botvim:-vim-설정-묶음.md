@@ -52,3 +52,8 @@ IDE의 파일 브라우저 역할
 ## Git 연동
 - fugitive  
 - Vim 안에서 git status, blame, diff  
+
+---
+
+## 사이트
+[bling/botvim GitHub](https://github.com/bling/dotvim)
