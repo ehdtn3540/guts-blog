@@ -2,6 +2,11 @@ docs:
   - title: Categories
     url: /categories/
     children:
+      - title: Frontend
+        url: /categories/frontend/
+      - title: └ Next.js
+        url: /categories/next.js/
+
       - title: DevOps-Tools
         url: /categories/devops-tools/
       - title: └ GitHub
