@@ -6,6 +6,8 @@ docs:
         url: /categories/frontend/
       - title: └ Next.js
         url: /categories/next.js/
+      - title: └ React
+        url: /categories/react/
 
       - title: DevOps-Tools
         url: /categories/devops-tools/
