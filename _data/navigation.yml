@@ -11,6 +11,11 @@ docs:
       - title: └ JavaScirpt
         url: /categories/javascript/
 
+      - title: Backend 
+        url: /categories/backend/
+      - title: └ FastAPI
+        url: /categories/fastapi/
+
       - title: DevOps-Tools
         url: /categories/devops-tools/
       - title: └ GitHub
