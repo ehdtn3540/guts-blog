@@ -15,6 +15,8 @@ docs:
         url: /categories/backend/
       - title: └ FastAPI
         url: /categories/fastapi/
+      - title: └ Python
+        url: /categories/python/
 
       - title: DevOps-Tools
         url: /categories/devops-tools/
