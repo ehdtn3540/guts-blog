@@ -26,6 +26,8 @@ docs:
         url: /categories/jekyll/
       - title: └ Vim
         url: /categories/vim/
+      - title: └ Docker
+        url: /categories/docker/
       - title: └ Etc
         url: /categories/etc/
 
