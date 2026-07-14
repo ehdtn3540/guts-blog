@@ -1,7 +1,7 @@
 ---
 title: "bling/botvim: vim 설정 묶음"
 date: 2026-01-20
-categories: [devops-tools, etc]
+categories: [devops-tools, vim]
 tags: [vim, bling/botvim, bling, botvim]
 ---
 
