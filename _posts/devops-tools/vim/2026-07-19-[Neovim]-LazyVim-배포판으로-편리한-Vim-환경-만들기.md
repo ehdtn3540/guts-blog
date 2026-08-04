@@ -25,7 +25,8 @@ brew install --cask font-jetbrains-mono-nerd-font
 4. 하단의 Font 항목에서 방금 설치한 JetBrainsMono Nerd Font로 변경해 준다.
 
 ## 2단계: 필수 도구 및 Neovim 설치
-LazyVim이 내부적으로 파일 검색이나 코드 분석을 할 때 사용하는 핵심 도구들과 Neovim 엔진을 설치한다.
+LazyVim이 내부적으로 파일 검색이나 코드 분석을 할 때 사용하는 핵심 도구들과 Neovim 엔진을 설치한다.  
+\* 기존에 설치된 git, python3 등은 버전이 달라질 수 있으니 주의가 필요
 ```
 brew install neovim git ripgrep fd fzf make coreutils node python3
 ```
